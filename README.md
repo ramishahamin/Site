@@ -9,37 +9,6 @@
     <link rel="stylesheet" href="assets/css/fontawesome.min.css">
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="style.css">
-    <style>
-        .our-header-area{
-    background-color: rgb(254, 217, 217);
-}
-.nav-item{
-    margin-top: 25px;
-    padding-left: 15px;
-}
-.nav-link{
-    color: rgb(99, 20, 65);
-    font-size: 18px;
-    font-weight: 600;
-}
-.our-hero-area{
-    background: url('assets/images/image.jpg');
-    height: 600px;
-    width: 100%;
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-    color: white;
-    text-align: center;
-    padding-top: 80px;
-}
-.hero-heading{
-    font-size: 60px;
-}
-.our-card-area{
-    margin: 70px;
-}
-    </style>
 </head>
 <body>
     <header>
